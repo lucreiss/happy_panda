@@ -1,0 +1,891 @@
+[
+  {
+    "account_id": "43861c6a-ab25-4a06-a592-a1703fc9e787",
+    "campaign_id": "15b65e77-e61c-4a95-bb2b-36470515f1d3",
+    "campaign_name": "Campaign 1 - Brand",
+    "objective": [
+      "conversion"
+    ],
+    "status": [
+      "active"
+    ],
+    "start_date": "2024-10-22",
+    "end_date": "2024-11-25",
+    "budget": {
+      "amount": 14711,
+      "type": "lifetime",
+      "remaining": 8035
+    },
+    "target_location": "Bahia",
+    "ad_sets": [
+      {
+        "ad_set_id": "d9cabee3-c765-4bcc-b38a-25a583bca18f",
+        "ad_set_name": "Ad Set 1 - Campaign 1 - Brand",
+        "status": "active",
+        "ads": [
+          {
+            "ad_id": "85b2da6a-12dc-4693-ac21-65a325de9265",
+            "ad_name": "Ad 1 - Ad Set 1 - Campaign 1 - Brand",
+            "status": "paused",
+            "creative_type": "carousel"
+          },
+          {
+            "ad_id": "b27c2b69-4b50-4992-b712-8839fe2929bb",
+            "ad_name": "Ad 2 - Ad Set 1 - Campaign 1 - Brand",
+            "status": "paused",
+            "creative_type": "image"
+          }
+        ]
+      },
+      {
+        "ad_set_id": "ccadcfb8-32b6-4a34-929d-50a4549e5876",
+        "ad_set_name": "Ad Set 2 - Campaign 1 - Brand",
+        "status": "paused",
+        "ads": [
+          {
+            "ad_id": "cc6c8ff5-c5b4-47e0-b178-929672bdbf33",
+            "ad_name": "Ad 1 - Ad Set 2 - Campaign 1 - Brand",
+            "status": "paused",
+            "creative_type": "carousel"
+          },
+          {
+            "ad_id": "c2c10053-ae5c-40fa-a805-0063a320e233",
+            "ad_name": "Ad 2 - Ad Set 2 - Campaign 1 - Brand",
+            "status": "paused",
+            "creative_type": "image"
+          }
+        ]
+      },
+      {
+        "ad_set_id": "68692bbd-311d-4f02-9739-47242650c826",
+        "ad_set_name": "Ad Set 3 - Campaign 1 - Brand",
+        "status": "paused",
+        "ads": [
+          {
+            "ad_id": "af13c4e3-68d8-442f-8677-2e1f01a0cb8f",
+            "ad_name": "Ad 1 - Ad Set 3 - Campaign 1 - Brand",
+            "status": "paused",
+            "creative_type": "carousel"
+          },
+          {
+            "ad_id": "b6b1f3a6-562d-4792-b3d2-e4a7cd4f3765",
+            "ad_name": "Ad 2 - Ad Set 3 - Campaign 1 - Brand",
+            "status": "active",
+            "creative_type": "carousel"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "account_id": "acba54aa-9e1b-4097-9c14-8ac4bfa4567c",
+    "campaign_id": "2c10f678-c8d6-4e1f-9a41-36ddc029f246",
+    "campaign_name": "Campaign 2 - Brand",
+    "objective": [
+      "consideration"
+    ],
+    "status": [
+      "active"
+    ],
+    "start_date": "2024-11-01",
+    "end_date": "2024-12-12",
+    "budget": {
+      "amount": 37462,
+      "type": "lifetime",
+      "remaining": 6094
+    },
+    "target_location": "São Paulo",
+    "ad_sets": [
+      {
+        "ad_set_id": "a6198961-95ec-49d4-829b-fb17faa57daf",
+        "ad_set_name": "Ad Set 1 - Campaign 2 - Brand",
+        "status": "active",
+        "ads": [
+          {
+            "ad_id": "2f4a686f-f8aa-4df3-88e5-5bd94f58a35e",
+            "ad_name": "Ad 1 - Ad Set 1 - Campaign 2 - Brand",
+            "status": "paused",
+            "creative_type": "carousel"
+          },
+          {
+            "ad_id": "f8bedb98-61b0-4d43-a3c8-56c689b695e4",
+            "ad_name": "Ad 2 - Ad Set 1 - Campaign 2 - Brand",
+            "status": "active",
+            "creative_type": "image"
+          },
+          {
+            "ad_id": "c6962e5e-6f49-4a42-8aae-b1517589d522",
+            "ad_name": "Ad 3 - Ad Set 1 - Campaign 2 - Brand",
+            "status": "paused",
+            "creative_type": "video"
+          }
+        ]
+      },
+      {
+        "ad_set_id": "10a345fd-f3ef-41d8-ab54-bccaf4acca52",
+        "ad_set_name": "Ad Set 2 - Campaign 2 - Brand",
+        "status": "active",
+        "ads": [
+          {
+            "ad_id": "eca48be3-dbf1-45ea-ae09-a66d90b39d32",
+            "ad_name": "Ad 1 - Ad Set 2 - Campaign 2 - Brand",
+            "status": "paused",
+            "creative_type": "video"
+          },
+          {
+            "ad_id": "cc96cf8c-f47a-4276-91c6-99f877074f74",
+            "ad_name": "Ad 2 - Ad Set 2 - Campaign 2 - Brand",
+            "status": "paused",
+            "creative_type": "image"
+          },
+          {
+            "ad_id": "8af708f2-fa86-42f3-b768-ffc4ea2a4eb3",
+            "ad_name": "Ad 3 - Ad Set 2 - Campaign 2 - Brand",
+            "status": "paused",
+            "creative_type": "video"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "account_id": "43861c6a-ab25-4a06-a592-a1703fc9e787",
+    "campaign_id": "fcf7729d-4c63-4dce-bf3b-aaf0a5791c57",
+    "campaign_name": "Campaign 3 - Performance",
+    "objective": [
+      "awareness"
+    ],
+    "status": [
+      "active"
+    ],
+    "start_date": "2024-10-22",
+    "end_date": "2024-11-30",
+    "budget": {
+      "amount": 35591,
+      "type": "daily",
+      "remaining": 32266
+    },
+    "target_location": "Rio de Janeiro",
+    "ad_sets": [
+      {
+        "ad_set_id": "33d46e67-4ba0-4324-8576-476fbed18b21",
+        "ad_set_name": "Ad Set 1 - Campaign 3 - Performance",
+        "status": "paused",
+        "ads": [
+          {
+            "ad_id": "8db5972a-bc8f-47c4-ac74-9d425fa42922",
+            "ad_name": "Ad 1 - Ad Set 1 - Campaign 3 - Performance",
+            "status": "active",
+            "creative_type": "video"
+          },
+          {
+            "ad_id": "1358c1de-3dc1-47e1-a04e-1ad9b048fa51",
+            "ad_name": "Ad 2 - Ad Set 1 - Campaign 3 - Performance",
+            "status": "active",
+            "creative_type": "video"
+          },
+          {
+            "ad_id": "ea6684eb-7fa4-4d22-838b-25e1892fb110",
+            "ad_name": "Ad 3 - Ad Set 1 - Campaign 3 - Performance",
+            "status": "paused",
+            "creative_type": "carousel"
+          }
+        ]
+      },
+      {
+        "ad_set_id": "3a5321eb-2167-45d1-947a-f14d039cbaab",
+        "ad_set_name": "Ad Set 2 - Campaign 3 - Performance",
+        "status": "active",
+        "ads": [
+          {
+            "ad_id": "0dd3cd4e-83aa-4252-bf61-d5875b0a95bc",
+            "ad_name": "Ad 1 - Ad Set 2 - Campaign 3 - Performance",
+            "status": "paused",
+            "creative_type": "video"
+          },
+          {
+            "ad_id": "31e89f13-d12d-4c16-b31d-4f9afe257358",
+            "ad_name": "Ad 2 - Ad Set 2 - Campaign 3 - Performance",
+            "status": "active",
+            "creative_type": "video"
+          }
+        ]
+      },
+      {
+        "ad_set_id": "4647718c-9b7d-4c83-a4c2-674029f27a1d",
+        "ad_set_name": "Ad Set 3 - Campaign 3 - Performance",
+        "status": "paused",
+        "ads": [
+          {
+            "ad_id": "9e8c85da-e2f5-4d79-871b-09d2b025e58d",
+            "ad_name": "Ad 1 - Ad Set 3 - Campaign 3 - Performance",
+            "status": "active",
+            "creative_type": "carousel"
+          },
+          {
+            "ad_id": "62dbc0a3-de46-42e5-a130-85237b6a443f",
+            "ad_name": "Ad 2 - Ad Set 3 - Campaign 3 - Performance",
+            "status": "paused",
+            "creative_type": "video"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "account_id": "acba54aa-9e1b-4097-9c14-8ac4bfa4567c",
+    "campaign_id": "d345a561-0bed-4031-9c54-f606ae60306b",
+    "campaign_name": "Campaign 4 - Awareness",
+    "objective": [
+      "consideration"
+    ],
+    "status": [
+      "active"
+    ],
+    "start_date": "2024-11-06",
+    "end_date": "2024-11-28",
+    "budget": {
+      "amount": 1070,
+      "type": "lifetime",
+      "remaining": 383
+    },
+    "target_location": "Distrito Federal",
+    "ad_sets": [
+      {
+        "ad_set_id": "c2441745-3d8f-48bc-8bcc-ee4d5b650f36",
+        "ad_set_name": "Ad Set 1 - Campaign 4 - Awareness",
+        "status": "paused",
+        "ads": [
+          {
+            "ad_id": "a31c61c2-ee04-43f1-a94a-470ed412bd2c",
+            "ad_name": "Ad 1 - Ad Set 1 - Campaign 4 - Awareness",
+            "status": "active",
+            "creative_type": "image"
+          },
+          {
+            "ad_id": "7d69f099-9c03-4d82-81ca-b64d2ea4cead",
+            "ad_name": "Ad 2 - Ad Set 1 - Campaign 4 - Awareness",
+            "status": "paused",
+            "creative_type": "carousel"
+          },
+          {
+            "ad_id": "5a6d588b-85e1-4959-b17d-b13ceaa25e5c",
+            "ad_name": "Ad 3 - Ad Set 1 - Campaign 4 - Awareness",
+            "status": "active",
+            "creative_type": "carousel"
+          }
+        ]
+      },
+      {
+        "ad_set_id": "a54ca14d-fff0-42f1-bbea-425fdd2099a3",
+        "ad_set_name": "Ad Set 2 - Campaign 4 - Awareness",
+        "status": "active",
+        "ads": [
+          {
+            "ad_id": "4d04e806-4b48-42cb-93e9-fd5f06736355",
+            "ad_name": "Ad 1 - Ad Set 2 - Campaign 4 - Awareness",
+            "status": "paused",
+            "creative_type": "video"
+          },
+          {
+            "ad_id": "64beab1e-3503-4ca4-846e-85de2fa731cf",
+            "ad_name": "Ad 2 - Ad Set 2 - Campaign 4 - Awareness",
+            "status": "active",
+            "creative_type": "carousel"
+          }
+        ]
+      },
+      {
+        "ad_set_id": "0d973223-02fb-491e-8bb3-a8131e2c650d",
+        "ad_set_name": "Ad Set 3 - Campaign 4 - Awareness",
+        "status": "active",
+        "ads": [
+          {
+            "ad_id": "20f2a3cd-661f-4039-86b6-c4d9998dbfb7",
+            "ad_name": "Ad 1 - Ad Set 3 - Campaign 4 - Awareness",
+            "status": "active",
+            "creative_type": "image"
+          },
+          {
+            "ad_id": "bedd17e5-c636-420e-87f3-6f89ba61b38f",
+            "ad_name": "Ad 2 - Ad Set 3 - Campaign 4 - Awareness",
+            "status": "active",
+            "creative_type": "image"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "account_id": "43861c6a-ab25-4a06-a592-a1703fc9e787",
+    "campaign_id": "7394d5e3-794d-40da-8f97-38f6b13cceab",
+    "campaign_name": "Campaign 5 - Brand",
+    "objective": [
+      "consideration"
+    ],
+    "status": [
+      "active"
+    ],
+    "start_date": "2024-11-11",
+    "end_date": "2024-12-17",
+    "budget": {
+      "amount": 42296,
+      "type": "lifetime",
+      "remaining": 27531
+    },
+    "target_location": "Distrito Federal",
+    "ad_sets": [
+      {
+        "ad_set_id": "1f8205bc-7ad7-46c7-8c53-203dbd0ca2e3",
+        "ad_set_name": "Ad Set 1 - Campaign 5 - Brand",
+        "status": "paused",
+        "ads": [
+          {
+            "ad_id": "deae1f2d-a25c-4c22-86da-5335b8cc6c85",
+            "ad_name": "Ad 1 - Ad Set 1 - Campaign 5 - Brand",
+            "status": "paused",
+            "creative_type": "video"
+          },
+          {
+            "ad_id": "34211307-1ba7-4b4b-9cd2-bf6e959ecd41",
+            "ad_name": "Ad 2 - Ad Set 1 - Campaign 5 - Brand",
+            "status": "paused",
+            "creative_type": "carousel"
+          }
+        ]
+      },
+      {
+        "ad_set_id": "509b8c16-34cb-42c1-898d-fa95b4569083",
+        "ad_set_name": "Ad Set 2 - Campaign 5 - Brand",
+        "status": "active",
+        "ads": [
+          {
+            "ad_id": "88f8694d-bb1e-4a2b-b877-0e7bdb4cb0e8",
+            "ad_name": "Ad 1 - Ad Set 2 - Campaign 5 - Brand",
+            "status": "active",
+            "creative_type": "carousel"
+          },
+          {
+            "ad_id": "400fd4b9-a393-4a9c-a656-b8e445d13387",
+            "ad_name": "Ad 2 - Ad Set 2 - Campaign 5 - Brand",
+            "status": "paused",
+            "creative_type": "carousel"
+          },
+          {
+            "ad_id": "13d77f02-3a55-4fc8-8589-5e0dc178a31f",
+            "ad_name": "Ad 3 - Ad Set 2 - Campaign 5 - Brand",
+            "status": "active",
+            "creative_type": "image"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "account_id": "43861c6a-ab25-4a06-a592-a1703fc9e787",
+    "campaign_id": "76e62879-33cf-46d2-b4a8-de333ef1b886",
+    "campaign_name": "Campaign 6 - Brand",
+    "objective": [
+      "consideration"
+    ],
+    "status": [
+      "active"
+    ],
+    "start_date": "2024-10-24",
+    "end_date": "2024-12-07",
+    "budget": {
+      "amount": 41124,
+      "type": "lifetime",
+      "remaining": 31283
+    },
+    "target_location": "Distrito Federal",
+    "ad_sets": [
+      {
+        "ad_set_id": "f9b81433-cea0-456d-9a14-bbf70c90d5ba",
+        "ad_set_name": "Ad Set 1 - Campaign 6 - Brand",
+        "status": "paused",
+        "ads": [
+          {
+            "ad_id": "94d3aea2-0b58-44d9-82ca-f20ba3c42426",
+            "ad_name": "Ad 1 - Ad Set 1 - Campaign 6 - Brand",
+            "status": "active",
+            "creative_type": "video"
+          },
+          {
+            "ad_id": "e5aea90a-acf3-4eb4-8b59-2ddd95e3d4b7",
+            "ad_name": "Ad 2 - Ad Set 1 - Campaign 6 - Brand",
+            "status": "paused",
+            "creative_type": "image"
+          },
+          {
+            "ad_id": "c3b06890-4b6c-4605-8887-4f43fb51c670",
+            "ad_name": "Ad 3 - Ad Set 1 - Campaign 6 - Brand",
+            "status": "paused",
+            "creative_type": "video"
+          }
+        ]
+      },
+      {
+        "ad_set_id": "cd68f026-4f93-4965-bd8f-24049c023235",
+        "ad_set_name": "Ad Set 2 - Campaign 6 - Brand",
+        "status": "active",
+        "ads": [
+          {
+            "ad_id": "295a1fa7-7b86-4abf-acdc-3523fc3bffc9",
+            "ad_name": "Ad 1 - Ad Set 2 - Campaign 6 - Brand",
+            "status": "paused",
+            "creative_type": "carousel"
+          },
+          {
+            "ad_id": "649b02ee-f926-4909-86e0-f2cfc6d574b3",
+            "ad_name": "Ad 2 - Ad Set 2 - Campaign 6 - Brand",
+            "status": "paused",
+            "creative_type": "carousel"
+          }
+        ]
+      },
+      {
+        "ad_set_id": "a78fc672-e878-47bd-bf5e-7f9d4c6a1f49",
+        "ad_set_name": "Ad Set 3 - Campaign 6 - Brand",
+        "status": "paused",
+        "ads": [
+          {
+            "ad_id": "f57afad6-d5c1-43a3-893d-a301c2f2c372",
+            "ad_name": "Ad 1 - Ad Set 3 - Campaign 6 - Brand",
+            "status": "paused",
+            "creative_type": "video"
+          },
+          {
+            "ad_id": "2483d368-9bad-4ba5-9806-07e42620267e",
+            "ad_name": "Ad 2 - Ad Set 3 - Campaign 6 - Brand",
+            "status": "active",
+            "creative_type": "carousel"
+          }
+        ]
+      },
+      {
+        "ad_set_id": "9b007bf5-6566-499d-940d-3f16cdb7783c",
+        "ad_set_name": "Ad Set 4 - Campaign 6 - Brand",
+        "status": "paused",
+        "ads": [
+          {
+            "ad_id": "c446db60-0795-4201-8531-85295fe69ab0",
+            "ad_name": "Ad 1 - Ad Set 4 - Campaign 6 - Brand",
+            "status": "paused",
+            "creative_type": "image"
+          },
+          {
+            "ad_id": "f0791a07-4106-4b7c-92d0-f3e02afbd046",
+            "ad_name": "Ad 2 - Ad Set 4 - Campaign 6 - Brand",
+            "status": "paused",
+            "creative_type": "video"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "account_id": "43861c6a-ab25-4a06-a592-a1703fc9e787",
+    "campaign_id": "8f52ec49-f445-4ed3-8d9a-0d0a4bf5d3ac",
+    "campaign_name": "Campaign 7 - Awareness",
+    "objective": [
+      "consideration"
+    ],
+    "status": [
+      "active"
+    ],
+    "start_date": "2024-10-26",
+    "end_date": "2024-11-20",
+    "budget": {
+      "amount": 39842,
+      "type": "daily",
+      "remaining": 8774
+    },
+    "target_location": "São Paulo",
+    "ad_sets": [
+      {
+        "ad_set_id": "3c216ffd-66df-4db1-afa9-3ce83c3834d7",
+        "ad_set_name": "Ad Set 1 - Campaign 7 - Awareness",
+        "status": "active",
+        "ads": [
+          {
+            "ad_id": "dc909853-a7b9-4c21-93f2-425936bd8ad0",
+            "ad_name": "Ad 1 - Ad Set 1 - Campaign 7 - Awareness",
+            "status": "active",
+            "creative_type": "image"
+          },
+          {
+            "ad_id": "ef1dc73e-12b5-4c41-8abc-d13fe231ef86",
+            "ad_name": "Ad 2 - Ad Set 1 - Campaign 7 - Awareness",
+            "status": "paused",
+            "creative_type": "carousel"
+          }
+        ]
+      },
+      {
+        "ad_set_id": "177d03ce-59fd-4733-a9a7-ec2aea2946e9",
+        "ad_set_name": "Ad Set 2 - Campaign 7 - Awareness",
+        "status": "active",
+        "ads": [
+          {
+            "ad_id": "a3e9734a-3496-483c-8571-d9992d0410a2",
+            "ad_name": "Ad 1 - Ad Set 2 - Campaign 7 - Awareness",
+            "status": "paused",
+            "creative_type": "carousel"
+          },
+          {
+            "ad_id": "8469d419-f58a-49b6-9aea-e1551ee298f7",
+            "ad_name": "Ad 2 - Ad Set 2 - Campaign 7 - Awareness",
+            "status": "paused",
+            "creative_type": "image"
+          }
+        ]
+      },
+      {
+        "ad_set_id": "8f372ae3-34ff-4026-bb23-67cdf8cb9449",
+        "ad_set_name": "Ad Set 3 - Campaign 7 - Awareness",
+        "status": "active",
+        "ads": [
+          {
+            "ad_id": "7b213664-62a9-401e-ad5c-82bab2c617de",
+            "ad_name": "Ad 1 - Ad Set 3 - Campaign 7 - Awareness",
+            "status": "active",
+            "creative_type": "carousel"
+          },
+          {
+            "ad_id": "a03fb691-97c3-49fa-be0b-55c093f40771",
+            "ad_name": "Ad 2 - Ad Set 3 - Campaign 7 - Awareness",
+            "status": "active",
+            "creative_type": "carousel"
+          },
+          {
+            "ad_id": "3837e308-5f03-4e1d-adea-245a38443678",
+            "ad_name": "Ad 3 - Ad Set 3 - Campaign 7 - Awareness",
+            "status": "active",
+            "creative_type": "video"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "account_id": "acba54aa-9e1b-4097-9c14-8ac4bfa4567c",
+    "campaign_id": "3fc368cf-2296-496f-801c-601746a07ec7",
+    "campaign_name": "Campaign 8 - Brand",
+    "objective": [
+      "awareness"
+    ],
+    "status": [
+      "active"
+    ],
+    "start_date": "2024-11-02",
+    "end_date": "2024-12-03",
+    "budget": {
+      "amount": 7209,
+      "type": "daily",
+      "remaining": 2775
+    },
+    "target_location": "São Paulo",
+    "ad_sets": [
+      {
+        "ad_set_id": "a31b8c2c-c65f-48f8-b5c7-8ae0eecdec15",
+        "ad_set_name": "Ad Set 1 - Campaign 8 - Brand",
+        "status": "paused",
+        "ads": [
+          {
+            "ad_id": "adfbe654-b96d-4799-9ca2-7e318faec4be",
+            "ad_name": "Ad 1 - Ad Set 1 - Campaign 8 - Brand",
+            "status": "paused",
+            "creative_type": "carousel"
+          },
+          {
+            "ad_id": "260c674a-6044-4022-9222-e4c9f5e2f0f2",
+            "ad_name": "Ad 2 - Ad Set 1 - Campaign 8 - Brand",
+            "status": "paused",
+            "creative_type": "video"
+          },
+          {
+            "ad_id": "b65f2361-2bb1-491f-905b-8228af3bb92d",
+            "ad_name": "Ad 3 - Ad Set 1 - Campaign 8 - Brand",
+            "status": "active",
+            "creative_type": "image"
+          }
+        ]
+      },
+      {
+        "ad_set_id": "64a9624c-5db3-4742-8cf2-5b20c2179a04",
+        "ad_set_name": "Ad Set 2 - Campaign 8 - Brand",
+        "status": "paused",
+        "ads": [
+          {
+            "ad_id": "6a439a95-900b-4471-b1bc-d2ec61d869b0",
+            "ad_name": "Ad 1 - Ad Set 2 - Campaign 8 - Brand",
+            "status": "paused",
+            "creative_type": "video"
+          },
+          {
+            "ad_id": "e72936ae-a38f-4860-8030-2febb5dcda18",
+            "ad_name": "Ad 2 - Ad Set 2 - Campaign 8 - Brand",
+            "status": "active",
+            "creative_type": "carousel"
+          }
+        ]
+      },
+      {
+        "ad_set_id": "730c5ea5-8eb3-4d26-94f7-47b3cc9ffe39",
+        "ad_set_name": "Ad Set 3 - Campaign 8 - Brand",
+        "status": "active",
+        "ads": [
+          {
+            "ad_id": "e6e5faa6-d9c2-4e31-bd98-b094f1bda477",
+            "ad_name": "Ad 1 - Ad Set 3 - Campaign 8 - Brand",
+            "status": "active",
+            "creative_type": "video"
+          },
+          {
+            "ad_id": "6a116d6a-fb9b-4c6d-941e-702a3a661a47",
+            "ad_name": "Ad 2 - Ad Set 3 - Campaign 8 - Brand",
+            "status": "paused",
+            "creative_type": "video"
+          },
+          {
+            "ad_id": "1326ed1c-4229-458f-b8c7-c94933b4ec19",
+            "ad_name": "Ad 3 - Ad Set 3 - Campaign 8 - Brand",
+            "status": "paused",
+            "creative_type": "carousel"
+          }
+        ]
+      },
+      {
+        "ad_set_id": "7a40a924-68d0-41fc-af8a-53eb80506245",
+        "ad_set_name": "Ad Set 4 - Campaign 8 - Brand",
+        "status": "active",
+        "ads": [
+          {
+            "ad_id": "2dcd9be9-5ccf-4426-a1d7-37be80b8b3ef",
+            "ad_name": "Ad 1 - Ad Set 4 - Campaign 8 - Brand",
+            "status": "paused",
+            "creative_type": "carousel"
+          },
+          {
+            "ad_id": "9df9fdeb-b7fa-4214-8125-98197f7f15a3",
+            "ad_name": "Ad 2 - Ad Set 4 - Campaign 8 - Brand",
+            "status": "paused",
+            "creative_type": "image"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "account_id": "acba54aa-9e1b-4097-9c14-8ac4bfa4567c",
+    "campaign_id": "9dfd6d39-6d81-4793-b850-a43a7c005f7e",
+    "campaign_name": "Campaign 9 - Performance",
+    "objective": [
+      "conversion"
+    ],
+    "status": [
+      "active"
+    ],
+    "start_date": "2024-11-01",
+    "end_date": "2024-11-21",
+    "budget": {
+      "amount": 47224,
+      "type": "daily",
+      "remaining": 46379
+    },
+    "target_location": "São Paulo",
+    "ad_sets": [
+      {
+        "ad_set_id": "ebdcfb30-6dda-4a8b-8be1-22f2cb99884a",
+        "ad_set_name": "Ad Set 1 - Campaign 9 - Performance",
+        "status": "paused",
+        "ads": [
+          {
+            "ad_id": "1bd382b0-934f-4a3d-9290-47343572e70a",
+            "ad_name": "Ad 1 - Ad Set 1 - Campaign 9 - Performance",
+            "status": "paused",
+            "creative_type": "image"
+          },
+          {
+            "ad_id": "4752a0a8-04bc-4d70-8c73-39cfad59bdad",
+            "ad_name": "Ad 2 - Ad Set 1 - Campaign 9 - Performance",
+            "status": "active",
+            "creative_type": "image"
+          },
+          {
+            "ad_id": "96c8dd27-4cc3-48aa-adcb-630b41ebe28f",
+            "ad_name": "Ad 3 - Ad Set 1 - Campaign 9 - Performance",
+            "status": "active",
+            "creative_type": "carousel"
+          }
+        ]
+      },
+      {
+        "ad_set_id": "0221e678-d118-409b-820f-9d39ad4c0059",
+        "ad_set_name": "Ad Set 2 - Campaign 9 - Performance",
+        "status": "active",
+        "ads": [
+          {
+            "ad_id": "3c097170-d657-4fe0-b93d-505d0b3478fe",
+            "ad_name": "Ad 1 - Ad Set 2 - Campaign 9 - Performance",
+            "status": "paused",
+            "creative_type": "image"
+          },
+          {
+            "ad_id": "bf7c0f43-3bee-42cf-9c1f-a54632cbd939",
+            "ad_name": "Ad 2 - Ad Set 2 - Campaign 9 - Performance",
+            "status": "active",
+            "creative_type": "image"
+          },
+          {
+            "ad_id": "c0c2ea50-3886-4e83-b710-e1da04d5b8a6",
+            "ad_name": "Ad 3 - Ad Set 2 - Campaign 9 - Performance",
+            "status": "paused",
+            "creative_type": "image"
+          }
+        ]
+      },
+      {
+        "ad_set_id": "0472e52b-e3d3-4734-b3b1-335341026852",
+        "ad_set_name": "Ad Set 3 - Campaign 9 - Performance",
+        "status": "paused",
+        "ads": [
+          {
+            "ad_id": "9c2888a4-a3eb-45c8-ba16-e3c1fc4b2b52",
+            "ad_name": "Ad 1 - Ad Set 3 - Campaign 9 - Performance",
+            "status": "paused",
+            "creative_type": "video"
+          },
+          {
+            "ad_id": "41931fa3-ecab-4d74-828a-02bcaf0162dc",
+            "ad_name": "Ad 2 - Ad Set 3 - Campaign 9 - Performance",
+            "status": "paused",
+            "creative_type": "carousel"
+          },
+          {
+            "ad_id": "9ddd2d83-f3fe-4beb-bfe3-fdcae38e13c2",
+            "ad_name": "Ad 3 - Ad Set 3 - Campaign 9 - Performance",
+            "status": "active",
+            "creative_type": "carousel"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "account_id": "acba54aa-9e1b-4097-9c14-8ac4bfa4567c",
+    "campaign_id": "434ffbae-9e39-4483-9080-9eb3f39e3638",
+    "campaign_name": "Campaign 10 - Awareness",
+    "objective": [
+      "awareness"
+    ],
+    "status": [
+      "active"
+    ],
+    "start_date": "2024-10-21",
+    "end_date": "2024-11-23",
+    "budget": {
+      "amount": 41797,
+      "type": "lifetime",
+      "remaining": 40530
+    },
+    "target_location": "São Paulo",
+    "ad_sets": [
+      {
+        "ad_set_id": "a7b399f6-8a69-4284-ae4b-28bbe0da197b",
+        "ad_set_name": "Ad Set 1 - Campaign 10 - Awareness",
+        "status": "active",
+        "ads": [
+          {
+            "ad_id": "f6039918-f319-4367-87b4-c9a890db5a69",
+            "ad_name": "Ad 1 - Ad Set 1 - Campaign 10 - Awareness",
+            "status": "active",
+            "creative_type": "image"
+          },
+          {
+            "ad_id": "3c395dd1-1566-45ac-9d28-997182a35e70",
+            "ad_name": "Ad 2 - Ad Set 1 - Campaign 10 - Awareness",
+            "status": "paused",
+            "creative_type": "carousel"
+          }
+        ]
+      },
+      {
+        "ad_set_id": "242b67a8-070d-43f3-865c-5f80e50bd9f9",
+        "ad_set_name": "Ad Set 2 - Campaign 10 - Awareness",
+        "status": "paused",
+        "ads": [
+          {
+            "ad_id": "f8acce5f-204f-4b4b-a3bb-0fd991bcde48",
+            "ad_name": "Ad 1 - Ad Set 2 - Campaign 10 - Awareness",
+            "status": "paused",
+            "creative_type": "video"
+          },
+          {
+            "ad_id": "bdb9617d-51e1-4fff-80c6-ffe5b4d85ad7",
+            "ad_name": "Ad 2 - Ad Set 2 - Campaign 10 - Awareness",
+            "status": "paused",
+            "creative_type": "video"
+          },
+          {
+            "ad_id": "5c7c75a5-70fe-498b-8a4a-6b90e25eb765",
+            "ad_name": "Ad 3 - Ad Set 2 - Campaign 10 - Awareness",
+            "status": "paused",
+            "creative_type": "video"
+          }
+        ]
+      },
+      {
+        "ad_set_id": "db9d6c04-c2a8-44cf-8bab-5bfe841abc4e",
+        "ad_set_name": "Ad Set 3 - Campaign 10 - Awareness",
+        "status": "paused",
+        "ads": [
+          {
+            "ad_id": "82a020ac-b8e2-4379-894a-a86baaf57e75",
+            "ad_name": "Ad 1 - Ad Set 3 - Campaign 10 - Awareness",
+            "status": "active",
+            "creative_type": "image"
+          },
+          {
+            "ad_id": "a2ea31fd-08d2-4394-b589-e13e0843ee06",
+            "ad_name": "Ad 2 - Ad Set 3 - Campaign 10 - Awareness",
+            "status": "paused",
+            "creative_type": "video"
+          },
+          {
+            "ad_id": "1bf05d84-6caf-47fe-9d9a-4b0e38153051",
+            "ad_name": "Ad 3 - Ad Set 3 - Campaign 10 - Awareness",
+            "status": "active",
+            "creative_type": "video"
+          }
+        ]
+      },
+      {
+        "ad_set_id": "e80b86d3-38a1-47b1-b680-8359185cdd8f",
+        "ad_set_name": "Ad Set 4 - Campaign 10 - Awareness",
+        "status": "paused",
+        "ads": [
+          {
+            "ad_id": "8bd2752b-3576-4f05-b0e8-cfc4549d61ad",
+            "ad_name": "Ad 1 - Ad Set 4 - Campaign 10 - Awareness",
+            "status": "paused",
+            "creative_type": "image"
+          },
+          {
+            "ad_id": "39a17e96-b2a7-4ba1-b95c-c6ba7579617f",
+            "ad_name": "Ad 2 - Ad Set 4 - Campaign 10 - Awareness",
+            "status": "active",
+            "creative_type": "carousel"
+          },
+          {
+            "ad_id": "0c2de156-fea1-42b7-91f9-bdb90244525a",
+            "ad_name": "Ad 3 - Ad Set 4 - Campaign 10 - Awareness",
+            "status": "paused",
+            "creative_type": "image"
+          }
+        ]
+      }
+    ]
+  }
+]
