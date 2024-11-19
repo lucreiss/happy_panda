@@ -1,0 +1,152 @@
+[
+  {
+    "id": "b46da9d7-df6d-41be-99c1-e88fb87b0a03",
+    "nome": "Jessica Arnold",
+    "email": "jessicamcclure@martinez.biz",
+    "extension": "733",
+    "department": "Sales",
+    "hire_date": "2024-06-12T01:52:54.100826",
+    "status": "active",
+    "region": "Distrito Federal"
+  },
+  {
+    "id": "1fc1211f-de54-445f-8de7-50952523e929",
+    "nome": "James Fletcher",
+    "email": "thomaskim@hale-smith.com",
+    "extension": "460",
+    "department": "Sales",
+    "hire_date": "2024-01-18T01:58:18.512591",
+    "status": "active",
+    "region": "São Paulo"
+  },
+  {
+    "id": "ae85562e-b4b2-4393-b9b1-551c38f01816",
+    "nome": "Angela Hunter",
+    "email": "natalie94@hill.org",
+    "extension": "141",
+    "department": "Sales",
+    "hire_date": "2024-04-06T06:15:59.825550",
+    "status": "active",
+    "region": "Bahia"
+  },
+  {
+    "id": "f3f6f45c-1f2f-424e-9b08-3d22dd7b7864",
+    "nome": "Tony Hardin",
+    "email": "melanie34@tate-wallace.com",
+    "extension": "449",
+    "department": "Sales",
+    "hire_date": "2024-10-16T17:19:20.993731",
+    "status": "active",
+    "region": "Distrito Federal"
+  },
+  {
+    "id": "58fc5dc1-fb32-46fa-bc24-22745b23c62b",
+    "nome": "Adam Lee",
+    "email": "laura81@rivera-perez.com",
+    "extension": "086",
+    "department": "Sales",
+    "hire_date": "2024-06-17T00:01:19.231424",
+    "status": "active",
+    "region": "Distrito Federal"
+  },
+  {
+    "id": "3d635828-b0f7-4db6-9b88-657f5dff7cd1",
+    "nome": "Christine Price",
+    "email": "cyoung@watson.com",
+    "extension": "237",
+    "department": "Sales",
+    "hire_date": "2024-11-12T17:33:55.564240",
+    "status": "active",
+    "region": "Campinas"
+  },
+  {
+    "id": "7992ee21-effb-4b62-9a3b-54753cf6ec99",
+    "nome": "Tamara Smith",
+    "email": "ejohnson@carey.biz",
+    "extension": "910",
+    "department": "Sales",
+    "hire_date": "2024-02-09T01:04:54.504127",
+    "status": "active",
+    "region": "Distrito Federal"
+  },
+  {
+    "id": "f6bad4f8-cfb5-4536-8666-f34db9252bd6",
+    "nome": "Mary Wong PhD",
+    "email": "ljohnson@robinson.com",
+    "extension": "835",
+    "department": "Sales",
+    "hire_date": "2024-09-02T13:14:32.007104",
+    "status": "active",
+    "region": "Distrito Federal"
+  },
+  {
+    "id": "8a3e778c-629b-4f39-9630-9e231ff14a72",
+    "nome": "Deborah Byrd",
+    "email": "hunter08@hunt-bennett.com",
+    "extension": "386",
+    "department": "Sales",
+    "hire_date": "2024-02-18T11:23:44.157023",
+    "status": "active",
+    "region": "Bahia"
+  },
+  {
+    "id": "6a408b50-81b0-484e-9561-65c6855c3b46",
+    "nome": "Colton Frazier",
+    "email": "nhuff@rose.net",
+    "extension": "747",
+    "department": "Sales",
+    "hire_date": "2024-05-05T10:05:58.749376",
+    "status": "active",
+    "region": "Bahia"
+  },
+  {
+    "id": "18ab578c-37a6-42da-b0d8-cb9c7ef22e8a",
+    "nome": "Andrew Sullivan",
+    "email": "brentday@byrd.com",
+    "extension": "758",
+    "department": "Sales",
+    "hire_date": "2024-04-22T04:34:27.862556",
+    "status": "active",
+    "region": "Minas Gerais"
+  },
+  {
+    "id": "08b11560-9f15-4128-9103-4b8871c97927",
+    "nome": "Phillip Morris",
+    "email": "beckerdebbie@jackson-bradley.com",
+    "extension": "174",
+    "department": "Sales",
+    "hire_date": "2024-10-10T16:29:14.336602",
+    "status": "active",
+    "region": "Rio de Janeiro"
+  },
+  {
+    "id": "247e81f3-1281-4e1a-93d6-6c6b4a6df307",
+    "nome": "Erica Beltran",
+    "email": "andrew16@alvarado-marshall.com",
+    "extension": "086",
+    "department": "Sales",
+    "hire_date": "2024-05-26T23:53:13.162302",
+    "status": "active",
+    "region": "Rio de Janeiro"
+  },
+  {
+    "id": "994a79dc-fcd5-4aa3-9e51-b51d4e6abd9c",
+    "nome": "Jessica Allen",
+    "email": "nnolan@smith-vaughn.com",
+    "extension": "059",
+    "department": "Sales",
+    "hire_date": "2024-07-10T09:07:35.078432",
+    "status": "active",
+    "region": "São Paulo"
+  },
+  {
+    "id": "7823f5d9-b046-4de5-9067-c5eeb374b717",
+    "nome": "Kimberly Caldwell",
+    "email": "vazquezmaurice@robinson.net",
+    "extension": "905",
+    "department": "Sales",
+    "hire_date": "2024-11-04T20:27:39.021532",
+    "status": "active",
+    "region": "Distrito Federal"
+  }
+]
